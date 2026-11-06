@@ -1,0 +1,6 @@
+{
+  "name": "AetherFinance AI - Smart Financial Assistant & Chatbot",
+  "description": "An intelligent AI-powered financial assistant for budgeting, savings, loan analysis, and investments with interactive voice & floating robot companion.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
